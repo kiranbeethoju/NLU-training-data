@@ -11,6 +11,259 @@
 - South Korean Won
 - Swiss Franc
 - United States Dollar
+- Afghan afghani
+- European euro
+- European euro
+- Albanian lek
+- Algerian dinar
+- United States dollar
+- European euro
+- Angolan kwanza
+- East Caribbean dollar
+- East Caribbean dollar
+- Argentine peso
+- Armenian dram
+- Aruban florin
+- Saint Helena pound
+- Australian dollar
+- European euro
+- Azerbaijan manat
+- Bahamian dollar
+- Bahraini dinar
+- Bangladeshi taka
+- Barbadian dollar
+- Belarusian ruble
+- European euro
+- Belize dollar
+- West African CFA franc
+- Bermudian dollar
+- Bhutanese ngultrum
+- Bolivian boliviano
+- United States dollar
+- Bosnia and Herzegovina convertible mark
+- Botswana pula
+- Brazilian real
+- United States dollar
+- United States dollar
+- Brunei dollar
+- Bulgarian lev
+- West African CFA franc
+- Burundi franc
+- Cape Verdean escudo
+- Cambodian riel
+- Central African CFA franc
+- Canadian dollar
+- United States dollar
+- Cayman Islands dollar
+- Central African CFA franc
+- Central African CFA franc
+- New Zealand dollar
+- Chilean peso
+- Chinese Yuan Renminbi
+- Australian dollar
+- Australian dollar
+- Colombian peso
+- Comorian franc
+- Congolese franc
+- Central African CFA franc
+- Cook Islands dollar
+- Costa Rican colon
+- West African CFA franc
+- Croatian kuna
+- Cuban peso
+- Netherlands Antillean guilder
+- European euro
+- Czech koruna
+- Danish krone
+- Djiboutian franc
+- East Caribbean dollar
+- Dominican peso
+- United States dollar
+- Egyptian pound
+- United States dollar
+- Central African CFA franc
+- Eritrean nakfa
+- European euro
+- Swazi lilangeni
+- Ethiopian birr
+- Falkland Islands pound
+- Faroese krona
+- Fijian dollar
+- European euro
+- European euro
+- European euro
+- CFP franc
+- Central African CFA franc
+- Gambian dalasi
+- Georgian lari
+- European euro
+- Ghanaian cedi
+- Gibraltar pound
+- European euro
+- Danish krone
+- East Caribbean dollar
+- European euro
+- United States dollar
+- Guatemalan quetzal
+- Guernsey Pound
+- Guinean franc
+- West African CFA franc
+- Guyanese dollar
+- Haitian gourde
+- Honduran lempira
+- Hong Kong dollar
+- Hungarian forint
+- Icelandic krona
+- Indian rupee
+- Indonesian rupiah
+- SDR (Special Drawing Right)
+- Iranian rial
+- Iraqi dinar
+- European euro
+- Manx pound
+- Israeli new shekel
+- European euro
+- Jamaican dollar
+- Japanese yen
+- Jersey pound
+- Jordanian dinar
+- Kazakhstani tenge
+- Kenyan shilling
+- Australian dollar
+- European euro
+- Kuwaiti dinar
+- Kyrgyzstani som
+- Lao kip
+- European euro
+- Lebanese pound
+- Lesotho loti
+- Liberian dollar
+- Libyan dinar
+- Swiss franc
+- European euro
+- European euro
+- Macanese pataca
+- Malagasy ariary
+- Malawian kwacha
+- Malaysian ringgit
+- Maldivian rufiyaa
+- West African CFA franc
+- European euro
+- United States dollar
+- European euro
+- Mauritanian ouguiya
+- Mauritian rupee
+- European euro
+- Mexican peso
+- United States dollar
+- Moldovan leu
+- European euro
+- Mongolian tugrik
+- European euro
+- East Caribbean dollar
+- Moroccan dirham
+- Mozambican metical
+- Myanmar kyat
+- Namibian dollar
+- Australian dollar
+- Nepalese rupee
+- European euro
+- CFP franc
+- New Zealand dollar
+- Nicaraguan cordoba
+- West African CFA franc
+- Nigerian naira
+- New Zealand dollar
+- Australian dollar
+- United States dollar
+- North Korean won
+- Macedonian denar
+- Norwegian krone
+- Omani rial
+- Pakistani rupee
+- United States dollar
+- Israeli new shekel
+- United States dollar
+- Papua New Guinean kina
+- Paraguayan guarani
+- Peruvian sol
+- Philippine peso
+- New Zealand dollar
+- Polish zloty
+- European euro
+- United States dollar
+- Qatari riyal
+- European euro
+- Romanian leu
+- Russian ruble
+- Rwandan franc
+- United States dollar
+- European euro
+- Saint Helena pound
+- East Caribbean dollar
+- East Caribbean dollar
+- European euro
+- European euro
+- East Caribbean dollar
+- Samoan tala
+- European euro
+- Sao Tome and Principe dobra
+- Saudi Arabian riyal
+- West African CFA franc
+- Serbian dinar
+- Seychellois rupee
+- Sierra Leonean leone
+- Singapore dollar
+- United States dollar
+- Netherlands Antillean guilder
+- European euro
+- European euro
+- Solomon Islands dollar
+- Somali shilling
+- South African rand
+- Pound sterling
+- South Korean won
+- South Sudanese pound
+- European euro
+- Sri Lankan rupee
+- Sudanese pound
+- Surinamese dollar
+- Norwegian krone
+- Swedish krona
+- Swiss franc
+- Syrian pound
+- New Taiwan dollar
+- Tajikistani somoni
+- Tanzanian shilling
+- Thai baht
+- United States dollar
+- West African CFA franc
+- New Zealand dollar
+- Tongan pa’anga
+- Trinidad and Tobago dollar
+- Pound sterling
+- Tunisian dinar
+- Turkish lira
+- Turkmen manat
+- United States dollar
+- Australian dollar
+- Ugandan shilling
+- Ukrainian hryvnia
+- UAE dirham
+- Pound sterling
+- United States dollar
+- Uruguayan peso
+- United States dollar
+- Uzbekistani som
+- Vanuatu vatu
+- European euro
+- Venezuelan bolivar
+- Vietnamese dong
+- United States dollar
+- CFP franc
+- Yemeni rial
+- Zambian kwacha
+- United States dollar
 
 # intent:transfer_money <!--The user would like to transfer money.-->
 
